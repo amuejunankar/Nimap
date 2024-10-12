@@ -83,7 +83,7 @@ WSGI_APPLICATION = 'ClientProjectManager.wsgi.application'
 
 
 DATABASES = {
-    'default': dj_database_url.parse("postgres://avnadmin:AVNS_Tk-j2LpWhi-kn4X6TXF@pg-390811d0-junankarutube-2b2b.i.aivencloud.com:28748/defaultdb?sslmode=require")
+    'default': dj_database_url.parse("DB Connection Link here")
 }
 
 # Password validation
